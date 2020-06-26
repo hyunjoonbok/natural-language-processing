@@ -21,7 +21,7 @@ When properly consumed in order, this will guide you through the basics of Natur
 * [Usage](#Usage)
 * [Data](#Data)
 * [Implementation](#Implementation)
-* [To-do](#Extra Learning)
+* [To-do](#ExtraLearning)
 * [Refernece](#Refernece)
 
 
@@ -66,7 +66,7 @@ Each dataset needed for each notebook can be downloaded through 'wget'. Also, fu
   
 <hr>
 
-## Extra Learning (To-do)
+## ExtraLearning 
 1. Novel generator using KoGPT2 and pytorch [Link](https://github.com/shbictai/narrativeKoGPT2?fbclid=IwAR1sRXEtzaVYPB5Ez3txT4M1DXZs3sQ24kYWKaXR3QDY-6gkr2xL18kD3g4)
 2. Text GEneration / Lyric GEneration / SQuAD fine-tuning [Link](https://github.com/MrBananaHuman/KorGPT2Tutorial)
 3. Make a simple Chat-bot in Korean language using Korean language data and pre-trained KoGPT2 model [Link](https://github.com/haven-jeon/KoGPT2-chatbot)
