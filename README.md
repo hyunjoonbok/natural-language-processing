@@ -73,7 +73,7 @@ Each dataset needed for each notebook can be downloaded through 'wget'. Also, fu
 
 
 ### Refernece
-> https://github.com/kimwoonggon/publicservant_AI /
-> https://github.com/microsoft/nlp-recipes /
-> https://github.com/NirantK/nlp-python-deep-learning /
-> https://github.com/monologg/KoBERT-NER /
+> https://github.com/kimwoonggon/publicservant_AI \
+> https://github.com/microsoft/nlp-recipes \
+> https://github.com/NirantK/nlp-python-deep-learning \
+> https://github.com/monologg/KoBERT-NER \
