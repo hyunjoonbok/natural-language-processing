@@ -10,11 +10,10 @@ The goal of this repository is to build a comprehensive set of tools and example
 
 When properly consumed in order, this will guide you through the basics of Natural Langeuage Processing concepts and skills through several different libraries (Keras, Tenforfow), and eventually will help build production-level systems like Chatbot / Recommendation system based on the language data 
 
-![aa](./img/natural-language-processing-introduction.jpg)
-
 
 <hr>
 
+![aa](./img/natural-language-processing-introduction.jpg)
 
 ## Table of contents
 * [Requirements](#Requirements)
