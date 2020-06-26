@@ -64,6 +64,12 @@ Each dataset needed for each notebook can be downloaded through 'wget'. Also, fu
   #### [06_Named_Entity_Recognition_in_Tensorflow](https://github.com/hyunjoonbok/Python-Projects/blob/master/vanilla/Ship_Crew_Size_ML_Model.ipynb):
   Solve the another application of Natural Language Processing - Names Entity Recognition (NER). Named entity recognition (NER) ‒ also called entity identification or entity extraction ‒ is an information extraction technique that automatically identifies named entities in a text and classifies them into predefined categories.
   
+  #### [07_End-to-End_Speech_Recognition_in_Tensorflow](https://github.com/hyunjoonbok/lets_learn_new_skills/blob/master/End-to-End%20Speech%20Recognition%20in%20Tensorflow.ipynb):
+  Build a simpel End-to-End Speech-to-Text model using librosa library. The model takes recordings of 10 different classes or words (data from Kaggle Speech Recognition Challenge), trains algorithm that is in Convolutional 1D, and predicts the sound in text.
+  
+  #### [08_Generate_fluent_English_text_using_GPT2](https://github.com/hyunjoonbok/lets_learn_new_skills/blob/master/Generate%20fluent%20English%20text%20using%20transformers%20GPT2.ipynb):
+  A simple example to look at different decoder method provided by Transformer library. We use GPT2 specifically to to see which decoder gerenates the most human-like languages when given texts.
+  
 <hr>
 
 ## ExtraLearning 
