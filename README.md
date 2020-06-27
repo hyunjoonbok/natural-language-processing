@@ -6,9 +6,9 @@ In recent years, natural language processing (NLP) has seen quick growth in qual
 
 This repository contains the full implementation example of several Natural Language Processing methods in Python, which can be used in any dataset of indutry to readily usage. I tried to output it all as jupyter notebook so that it's easy to read and follow through. 
 
-The goal of this repository is to build a comprehensive set of tools and examples that leverage recent advances in NLP algorithms
+The goal of this repo is to provide a comprehensive set of tools and examples that leverage recent advances in NLP algorithms.
 
-When properly consumed in order, this will guide you through the basics of Natural Langeuage Processing concepts and skills through several different libraries (Keras, Tenforfow), and eventually will help build production-level systems like Chatbot / Recommendation system based on the language data 
+When properly consumed in order, this will guide you through the basics of NLP concepts and skills through several different libraries (Keras, Tenforfow), and eventually will help build production-level systems like Chatbot / Recommendation system based on the language data 
 
 
 <hr>
