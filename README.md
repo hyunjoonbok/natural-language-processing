@@ -8,7 +8,7 @@ This repository contains the full implementation example of several Natural Lang
 
 The goal of this repo is to provide a comprehensive set of tools and examples that leverage recent advances in NLP algorithms.
 
-When properly consumed in order, this will guide you through the basics of NLP concepts and skills through several different libraries (Keras, Tenforfow), and eventually will help build production-level systems like Chatbot / Recommendation system based on the language data 
+When properly consumed in order of the notebooks, it will guide you through the basics of NLP concepts and skills through several different libraries (Keras, Tenforfow), and eventually will help build production-level systems like Chatbot / Recommendation system based on the language data 
 
 
 <hr>
