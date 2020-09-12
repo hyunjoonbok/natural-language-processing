@@ -30,7 +30,7 @@ When properly consumed in order of the notebooks, it will guide you through the 
 - Numpy
 - Pandas
 - sklearn
-- Transformers
+- Transformers (HuggingFace)
 
 
 ### Usage
@@ -70,7 +70,8 @@ Each dataset needed for each notebook can be downloaded through 'wget'. Also, fu
   A simple example to look at different decoder method provided by Transformer library. We use GPT2 specifically to to see which decoder gerenates the most human-like languages when given texts.
   
 <hr>
-
+ 
+ 
 ## ExtraLearning 
 1. Novel generator using KoGPT2 and pytorch [Link](https://github.com/shbictai/narrativeKoGPT2?fbclid=IwAR1sRXEtzaVYPB5Ez3txT4M1DXZs3sQ24kYWKaXR3QDY-6gkr2xL18kD3g4)
 2. Text GEneration / Lyric GEneration / SQuAD fine-tuning [Link](https://github.com/MrBananaHuman/KorGPT2Tutorial)
